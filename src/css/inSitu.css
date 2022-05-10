@@ -1,0 +1,12 @@
+.inSituPicturesPart {
+    padding-bottom: 2em;
+    z-index:2
+}
+.inSituPicturesPart:hover {
+    transform: scale(2); 
+    z-index: 5;
+    position: relative;
+    cursor: pointer;
+    padding-top: 4em;
+    padding-left: 2em;
+}

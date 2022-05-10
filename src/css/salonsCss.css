@@ -1,0 +1,23 @@
+.planningOf2022ExpositionsUpComing {
+    margin-bottom: 1em;
+    list-style-type: none;
+}
+.planningOf2022ExpositionsUpComingWithPictures {
+    margin-bottom: 1em;
+    list-style-type: none;
+}
+.planningOf2022ExpositionsUpComingWithPictures.active {
+    font-size: 1.2em;
+    list-style-type:disc;
+}
+.picturesOfDifferentsSalonsUpComing {
+    display: none;
+}
+.picturesOfDifferentsSalonsUpComing.active {
+    height: 23em;
+    margin-bottom: 5em;
+    margin-top: 2em;
+    display: flex;
+}
+
+

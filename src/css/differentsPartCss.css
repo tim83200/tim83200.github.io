@@ -1,0 +1,7 @@
+.changingPictureBySlideFunction {
+    display: none;
+}
+.changingPictureBySlideFunction.active {
+    display: flex;
+    width: 100%;
+}
